@@ -5,8 +5,8 @@
 # Indice
 
 - [Com suas palavras defina o que é um sistema de controle de versôes (VCS)? Max. 10 linhas](#-Com-suas-palavras-defina-o-que-é-um-sistema-de-controle-de-versôes-(VCS)-?-Max.-10-linhas)
-- [Cite 5 vantagens em utilizar um VCS:](#-Cite-5-vantagens-em-utilizar-um-VCS:)
-- [Cite 3 exemplos de VCS:](#-Cite-3-exemplos-de-VCS:)
+- [Cite 5 vantagens em utilizar um VCS](#-Cite-5-vantagens-em-utilizar-um-VCS)
+- [Cite 3 exemplos de VCS](#-Cite-3-exemplos-de-VCS)
 - [Crie um reporitório no seu git pessoal "trilhaBackEnd" e utilize para a entrega de todos os desafios.](#-Crie-um-reporitório-no-seu-git-pessoal-"trilhaBackEnd"-e-utilize-para-a-entrega-de-todos-os-desafios.)
 
 ## 🔖&nbsp; Sobre
