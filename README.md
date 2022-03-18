@@ -15,29 +15,24 @@
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🔖&nbsp; Cite 5 vantagens em utilizar um VCS
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+1-) Armazenamento do projeto de forma que outro profissional possa ter acesso.
+2-) Versionamento a medida que cada atualização é efetuada.
+3-) 
+4-)
+5-)
 
-- [ReactJS](https://reactjs.org)
-- [Redux](https://redux.org)
-- [Axios](https://github.com/axios/axios)
+---
+## 🔖&nbsp; Cite 3 exemplos de VCS
+
+1-) GIT.
+2-) SVN.
+3-) CVS.
 
 ---
 
-## 🗂 Como baixar o projeto
+## 🔖&nbsp; CCrie um reporitório no seu git pessoal "trilhaBackEnd" e utilize para a entrega de todos os desafios.
 
-```bash
-
-    # Clonar o repositório
-    $ git clone https://github.com/danileao/rocketmusic
-
-    # Entrar no diretório
-    $ cd rocketmusic
-
-    # Instalar as dependências
-    $ yarn install
-
-    # Iniciar o projeto
-    $ yarn start
-```
+https://github.com/sprocopio2022/trilhaBackEnd
+---
