@@ -52,6 +52,6 @@ https://github.com/sprocopio2022/trilhaBackEnd
 
 ---
 
-O treinsamento de Java completo estou na seção 3!
+O treinamento de Java completo estou na seção 3!
 
 ---
