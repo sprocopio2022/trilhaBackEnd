@@ -16,12 +16,21 @@
 ---
 
 ## 🔖&nbsp; Cite 5 vantagens em utilizar um VCS
-
+<h3>
 1-) Armazenamento do projeto de forma que outro profissional possa ter acesso.
+</h3>
+<h3>
 2-) Versionamento a medida que cada atualização é efetuada.
+</h3>
+<h3>
 3-) 
+</h3>
+<h3>
 4-)
+</h3>
+<h3>
 5-)
+</h3>
 
 ---
 ## 🔖&nbsp; Cite 3 exemplos de VCS
