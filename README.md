@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://ik.imagekit.io/kudysak8uv/logo2_wkzFleEF6.png">
+    <img src=https://ik.imagekit.io/interatte/Captura_de_Tela_2022-03-18_a%CC%80s_13.07.39_-hv_zJMtKk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647619761769>
 </h1>
 
 <h1>
