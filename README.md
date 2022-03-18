@@ -9,9 +9,9 @@
 - [Cite 3 exemplos de VCS](#-Cite-3-exemplos-de-VCS)
 - [Crie um reporitório no seu git pessoal "trilhaBackEnd" e utilize para a entrega de todos os desafios.](#-Crie-um-reporitório-no-seu-git-pessoal-"trilhaBackEnd"-e-utilize-para-a-entrega-de-todos-os-desafios.)
 
-## 🔖&nbsp; Sobre
+## 🔖&nbsp; Com suas palavras defina o que é um sistema de controle de versôes (VCS)? Max. 10 linhas
 
-O projeto **RocketMusic** é um e-commerce que foi criado dentro do curso **Bootcamp GoStack** com o intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+É um software com a finalidade de controloar as diferentes versões de qualquer documento, e ou desenvolvimento que é o Nosso Caso, permitindo assim que qualquer pessoa seja capaz de identificar o avanço do projeto, como alterações feitas por uma pessoa juntamente com a data. A cada commit o VCS salva na time line o nome e data da ultima atualização.
 
 ---
 
