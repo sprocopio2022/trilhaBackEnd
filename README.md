@@ -23,13 +23,13 @@
 2-) Versionamento a medida que cada atualização é efetuada.
 </h3>
 <h3>
-3-) 
+3-) Comutação de contexto sem atrito.
 </h3>
 <h3>
-4-)
+4-)Fluxo de trabalho Baseado em recursos
 </h3>
 <h3>
-5-)
+5-)Codelines Baseada em Paineis.
 </h3>
 
 ---
@@ -49,4 +49,9 @@
 ## 🔖&nbsp; CCrie um reporitório no seu git pessoal "trilhaBackEnd" e utilize para a entrega de todos os desafios.
 
 https://github.com/sprocopio2022/trilhaBackEnd
+
+---
+
+O treinsamento de Java completo estou na seção 3!
+
 ---
