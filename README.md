@@ -34,10 +34,15 @@
 
 ---
 ## 🔖&nbsp; Cite 3 exemplos de VCS
-
+<h3>
 1-) GIT.
+</h3>
+<h3>
 2-) SVN.
+</h3>
+<h3>
 3-) CVS.
+</h3>
 
 ---
 
