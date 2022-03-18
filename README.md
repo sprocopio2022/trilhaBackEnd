@@ -46,7 +46,7 @@
 
 ---
 
-## 🔖&nbsp; CCrie um reporitório no seu git pessoal "trilhaBackEnd" e utilize para a entrega de todos os desafios.
+## 🔖&nbsp; Crie um reporitório no seu git pessoal "trilhaBackEnd" e utilize para a entrega de todos os desafios.
 
 https://github.com/sprocopio2022/trilhaBackEnd
 
